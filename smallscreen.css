@@ -12,7 +12,7 @@ body{
 }
 
 p.intro {
-  max-width: 200px;
+  max-width: 170px;
 }
 
 .navigation {
@@ -35,7 +35,7 @@ p.intro {
   } */
 
   .hero {
-    background-image: url("Images/mobile.gif");
+    background-image: url("Images/mobile.png");
     width: 100%;
     min-height: 200px;
     /* height:300px; */

@@ -10,6 +10,10 @@ body{
     cursor: url("/Images/cursor.png"), auto;
 }
 
+p.intro {
+  max-width: 800px;
+}
+
 .navigation {
     position: fixed;
     background-color: transparent;
